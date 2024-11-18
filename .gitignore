@@ -20,3 +20,11 @@
 /super-linter.log
 /super-linter.report
 /typings/
+/venv
+# Ignore virtual environment folder
+venv/
+
+# Optionally, add any other large file patterns
+*.dll
+*.pyd
+*.lib
